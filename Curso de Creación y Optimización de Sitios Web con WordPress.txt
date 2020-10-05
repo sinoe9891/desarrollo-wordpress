@@ -1,0 +1,99 @@
+¿Cómo envío una página web a los índices de Google?
+Generando un mapa de sitio XML y lo envío por la consola de búsqueda de Google
+
+Algo obligado que debe hacer quien tenga una web en WordPress es:
+Tener la web actualizada, con plugins, tema y instalación de WordPress
+
+Si tienes un cliente de la temática deportiva, ¿cómo diseñarías su web?
+Busco un demo de la temática, lo instalo y lo adapto a los requerimientos del cliente
+
+Para vender una web profesional lo recomendable es usar temas…
+Premium o de pago
+
+El plugin que utilizamos para trabajar el SEO de la página se llama:
+Yoast SEO
+
+¿Por qué debemos instalar certificado SSL a una web?
+Porque protege los datos de los usuarios y ayuda a posicionar
+
+
+¿Para qué sirve el campo alt. en una imagen?
+Para que los buscadores sepan de qué se trata la imagen y la indexen
+
+Antes de comprar un dominio lo recomendable es:
+Hacer un estudio de palabras clave
+
+¿Qué son las SERPS?
+Las páginas donde se muestran los resultados de búsqueda
+
+¿Qué sección debemos editar en WordPress para poner enlaces amigables?
+Enlaces permanentes
+
+¿Qué pasa si descargo temas de pago de páginas no seguras?
+Pongo en peligro la seguridad a futuro de la página
+
+¿Cuántos demos tiene el tema BeTheme?
+Más de 390
+
+¿Cada cuánto tiempo se deben hacer respaldos de una página que genere contenido 2 veces por semana?
+Un respaldo semanal
+
+El plugin de seguridad recomendado en este curso es:
+Wordfence
+
+En vez de la palabra home poner enlace en el:
+EN el Logo
+
+Una de las ventajas de los temas premium es:
+Que tienen un excelente soporte garantizado
+
+¿En qué página es recomendable comprar los temas premium?
+Themeforest.net
+
+Para tener una idea de dónde partir en el diseño de una web profesional lo recomendable es ayudarnos con:
+Los demos que trae el tema
+
+Si queremos cambiar el logo de una web profesional debemos ir a:
+Las opciones del tema en la sección de cabecera o header y cambiar la imagen
+
+Un aspecto clave en diseño para el SEO de la página es:
+Imágenes de menos de 100 kb
+
+
+¿Por qué es necesario tener blog en una web?
+Porque genera contenido dinámico y posiciona en buscadores
+
+Si necesito vender una web de calidad con garantía de seguridad debo:
+Instalar un plugin de seguridad y mantener la web actualizada
+
+El plugin para auditorías que utilizamos en este curso es:
+Audit Log
+
+¿Se pude cambiar el tipo de letra y tamaño de un tema profesional?
+Si, son totalmente customizables
+
+¿Dónde podemos comprar dominios por menos de 1 dólar?
+Namecheap 
+
+Al final de un artículo siempre es recomendable poner:
+Un video
+
+¿Cuántas líneas de código se escribieron para hacer la página de platzza vista en el curso?
+
+¿Cómo se llama el constructor visual que utiliza BeTheme?
+Muffin Builder
+
+En un artículo de 900 palabras hay que escribir la palabra clave:
+3 y luego que varien
+
+
+¿Cómo se llama la herramienta que permite cambiar la primera sección del home de la página pizza platzza?
+
+Banahosting 
+------------------------------------------------------
+Plugins necesarios para mantener nuestras páginas seguras:
+Plugin de Seguridad: Wordfence - Se consigue en el repositorio de Wordpress como: Wordfence Security - Firewall & Malware Scan.
+
+Plugin de Respaldo: WP Backup - Se consigue en el repositorio de wordpress como: BackWPup - Wordpress Backup Plugin
+
+Plugin de Auditoría: WP Security Audit Log
